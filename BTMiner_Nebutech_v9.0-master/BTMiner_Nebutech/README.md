@@ -1,5 +1,7 @@
 # Complete install BTMiner v9.0 package for HiveOS 
 
+Update folder name to avoid case sensitivity issues
+
 Update to make BTMiner compatible with AntPool
 
 Previously by gradvis:  fixed stats
